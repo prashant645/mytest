@@ -12,6 +12,8 @@
   <modules>
     <module>simple-webapp</module>
   </modules>
+  <scm><developerConnection>scm:github:https://github.com/prashant645/ulfa/edit/master/ch-simple-web</developerConnection>
+   </scm>
   <distributionManagement>
   <repository>
     <id>releases</id>
