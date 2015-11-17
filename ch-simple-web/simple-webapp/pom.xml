@@ -10,8 +10,8 @@
   <version>1.1</version>
   <packaging>war</packaging>
   <name>Simple Web Chapter Application Project</name>
-  <scm><developerConnection>scm:git:https://github.com/prashant645/ulfa/edit/master/ch-simple-web/simple-webapp</developerConnection>
-   </scm>
+  <developerConnection>scm:git:https://github.com/prashant645/ulfa/edit/master/ch-simple-web/simple-webapp</developerConnection>
+   
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
