@@ -12,8 +12,11 @@
   <modules>
     <module>simple-webapp</module>
   </modules>
-  <scm><developerConnection>scm:git:https://github.com/prashant645/ulfa.git</developerConnection>
-   </scm>
+  <scm>
+    <developerConnection>scm:git:https://github.com/org/repo.git</developerConnection>
+    <url>https://https://github.com/prashant645/ulfa.git</url>
+    <tag>HEAD</tag>
+</scm>
   <distributionManagement>
   <repository>
     <id>releases</id>
