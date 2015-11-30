@@ -15,7 +15,7 @@
   <scm>
     <developerConnection>scm:git:https://github.com/org/repo.git</developerConnection>
     <url>https://github.com/prashant645/ulfa</url>
-    <tag>HEAD</tag>
+    
 </scm>
   <distributionManagement>
   <repository>
